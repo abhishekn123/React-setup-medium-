@@ -1,0 +1,1 @@
+(()=>{function n(n,r){return n+r}n(1,2),n(3,4)})();
