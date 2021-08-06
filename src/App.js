@@ -1,7 +1,4 @@
-function add(a,b)
-{
-    return a+b;
+import React from 'react';
+export function App() {
+    return <h1>Hello world</h1>
 }
-
-add(1,2);
-add(3,4);
